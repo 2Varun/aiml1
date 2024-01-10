@@ -1,4 +1,3 @@
-
 import csv
 
 with open("trainingexamples.csv") as f:
